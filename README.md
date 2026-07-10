@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**olasabry/olasabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ola Sabry
 
-Here are some ideas to get you started:
+### 📱 Flutter Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate Flutter Developer with a strong interest in building modern, responsive, and user-friendly mobile applications using Flutter.
+
+Skilled in Flutter, Dart, Firebase, REST APIs, Git, and GitHub, with a focus on writing clean, maintainable, and scalable code.
+
+I'm always eager to learn new technologies, improve my problem-solving skills, and build applications that provide a great user experience.
+
+</div>
