@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Ola%20Sabry&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Ola%20Sabry&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20Application%20Developer&descAlignY=55&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+Application+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 <div align="center">
