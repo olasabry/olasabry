@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Ola%20Sabry&fontSize=50&fontColor=ffffff" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Ola Sabry
