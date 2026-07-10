@@ -11,3 +11,11 @@ Skilled in Flutter, Dart, Firebase, REST APIs, Git, and GitHub, with a focus on 
 I'm always eager to learn new technologies, improve my problem-solving skills, and build applications that provide a great user experience.
 
 </div>
+
+## 🛠 Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,cpp,python,vscode,androidstudio,figma&theme=dark"/>
+
+</p>
