@@ -19,3 +19,14 @@ I'm always eager to learn new technologies, improve my problem-solving skills, a
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,cpp,python,vscode,androidstudio,figma&theme=dark"/>
 
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olasabry&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olasabry&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
